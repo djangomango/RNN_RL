@@ -1,11 +1,9 @@
-![flyer](images/flyer_rl.jpg)
 # Reinforcement Learning Pong on Cloud Machine Learning Engine
 
 ## Introduction
 
-This is a code sample for the talk "Tensorflow and deep reinforcement learning, without a PhD" ([video](https://youtu.be/aRKOJHRbXeo) | [slides](https://goo.gl/CB8xNH))
+Tensorflow and deep reinforcement learning, without a PhD" 
 
-Author: Yu-Han Liu
 
 ## Prerequisites
 
